@@ -6,12 +6,12 @@
 Find products, list them on eBay in each site's language, keep stock and prices in sync and get your customers' orders
 placed on AliExpress – from one app that keeps your data on your own computer.</p>
 
-## Download – version 1.0.0
+## Download – version 1.0.1
 
 | | Download | Requirements |
 |---|---|---|
-| **macOS** | [**CrossenDrop-1.0.0-macos.zip**](https://github.com/Lucad44/CrossenDropDownload/raw/main/releases/1.0.0/CrossenDrop-1.0.0-macos.zip) (5 MB) | macOS 12 or newer, Apple Silicon or Intel |
-| **Linux** | [**CrossenDrop-1.0.0-linux.tar.gz**](https://github.com/Lucad44/CrossenDropDownload/raw/main/releases/1.0.0/CrossenDrop-1.0.0-linux.tar.gz) (5 MB) | Fedora 40 or newer (GNOME) |
+| **macOS** | [**CrossenDrop-1.0.1-macos.zip**](https://github.com/Lucad44/CrossenDropDownload/raw/main/releases/1.0.1/CrossenDrop-1.0.1-macos.zip) (5 MB) | macOS 12 or newer, Apple Silicon or Intel |
+| **Linux** | [**CrossenDrop-1.0.1-linux.tar.gz**](https://github.com/Lucad44/CrossenDropDownload/raw/main/releases/1.0.1/CrossenDrop-1.0.1-linux.tar.gz) (5 MB) | Fedora 40 or newer (GNOME) |
 
 You also need a **CrossenDrop license key** (sent with your purchase), an **eBay seller account** and the normal
 **AliExpress account** you shop with.
@@ -33,10 +33,10 @@ Mac has no Python 3.12–3.14 yet, the installer installs it with [Homebrew](htt
 keychain – choose **Always Allow**.
 
 ### Linux (Fedora)
-1. Unpack the download: `tar -xzf CrossenDrop-1.0.0-linux.tar.gz`
+1. Unpack the download: `tar -xzf CrossenDrop-1.0.1-linux.tar.gz`
 2. In a terminal:
    ```bash
-   cd CrossenDrop-1.0.0-linux
+   cd CrossenDrop-1.0.1-linux
    bash install.sh
    ```
 
@@ -60,8 +60,8 @@ Run `bash install.sh --uninstall` in the downloaded folder. Your data is kept
 
 ## Check your download (optional)
 
-[SHA256SUMS.txt](releases/1.0.0/SHA256SUMS.txt) lists the checksums of the files above:
-`shasum -a 256 CrossenDrop-1.0.0-macos.zip` (macOS) or `sha256sum CrossenDrop-1.0.0-linux.tar.gz` (Linux).
+[SHA256SUMS.txt](releases/1.0.1/SHA256SUMS.txt) lists the checksums of the files above:
+`shasum -a 256 CrossenDrop-1.0.1-macos.zip` (macOS) or `sha256sum CrossenDrop-1.0.1-linux.tar.gz` (Linux).
 
 ---
 

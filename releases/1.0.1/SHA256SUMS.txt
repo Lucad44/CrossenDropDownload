@@ -1,0 +1,2 @@
+6b708a53c78eac1576dcdf156a843cf787cc6d35cef7b6e778d2a8ba5e641975  CrossenDrop-1.0.1-linux.tar.gz
+eef604df22c2b9ad8422eb28ab9b7ffc02b6154a8bd0c82250f3291b7233a8dc  CrossenDrop-1.0.1-macos.zip
